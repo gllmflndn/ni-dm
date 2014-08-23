@@ -250,7 +250,7 @@ niiri:cluster_0001
     a prov:Entity, nidm:Cluster ; 
     rdfs:label "Cluster: 0001" ;
     nidm:clusterSizeInVoxels "839"^^xsd:int ;
-    spm:clusterSizeInResels "6.31266696809113"^^xsd:float ;
+    spm:clusterSizeInResels "6.31265696809113"^^xsd:float ;
     nidm:pValueUncorrected "3.55896824480477e-19"^^xsd:float ;
     nidm:pValueFWER "0"^^xsd:float ;
     nidm:qValueFDR "1.77948412240239e-18"^^xsd:float ;
